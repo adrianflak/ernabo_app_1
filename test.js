@@ -1,1 +1,2 @@
-document.write("Jan Kowalski");
+document.write("Jan Kowalski"); 
+// przykład
